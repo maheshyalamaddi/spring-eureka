@@ -1,7 +1,7 @@
 ## ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) spring-eureka
 A simple demo demonstrating usage of Netflix Eureka open source library service registry and discovery.
 
-[working screenshot at start] (https://github.com/maheshyalamaddi/spring-eureka/blob/master/EurekaServerAtstart.jpg)
+[working screenshot at start](https://github.com/maheshyalamaddi/spring-eureka/blob/master/EurekaServerAtstart.jpg)
 
 [working screenshot After Service Start](https://github.com/maheshyalamaddi/spring-eureka/blob/master/AfterUserService%20Start.jpg)
 
