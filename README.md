@@ -1,6 +1,7 @@
 ## ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) spring-eureka
 A simple demo demonstrating usage of Netflix Eureka open source library service registry and discovery.
-
+[working screenshots](https://github.com/maheshyalamaddi/spring-eureka/blob/master/AfterUserService%20Start.jpg)
+[](https://github.com/maheshyalamaddi/spring-eureka/blob/master/AfterUserService%20Start.jpg)
 Netflix Eureka Service Registry Server  : This microservice will provide the service registry and discovery server.
 
 Login Microservice : Which will give authentication based on User entity. It will be a rest based service and most importantly it 	will be a eureka client service, which will talk with eureka service to register itself in the service registry.
